@@ -1,0 +1,19 @@
+{
+    "name": "fetch/php-stripper",
+    "description": "Formatting stripper",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Koen Punt",
+            "email": "koen@fetch.nl"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Stripper\\": "lib/"
+        }
+    }
+}
